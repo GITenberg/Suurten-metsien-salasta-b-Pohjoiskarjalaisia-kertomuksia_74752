@@ -1,5 +1,8 @@
 _repo: Suurten-metsien-salasta-b-Pohjoiskarjalaisia-kertomuksia_74752
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eronen, Simo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57528
     wikipedia: https://fi.wikipedia.org/wiki/Simo_Eronen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74752#Suurten-metsien-salasta-b-Pohjoiskarjalaisia-kertomuksia
 gutenberg_issued: '2024-11-16'
 gutenberg_type: Text
 identifiers:
